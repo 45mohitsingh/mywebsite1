@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    background-color: rgb(187, 230, 230);
+}
+.mountain{
+    height: 900px;
+}
+
+   .pro{
+    text-decoration: underline;
+}
+.container1{
+    background-color: rgb(187, 230, 230);
+    padding-top: 50px;
+    position: relative;
+          
+    } 
+    h1{
+        color: rgb(15, 109, 109);
+        font-family: 'Sacramento', cursive;
+        font-size: 4.5rem;
+        
+    }
+    .topMost{
+        color: rgb(15, 109, 109);
+        font-size: 2rem;
+        margin: 0;
+        font-weight:normal ;
+    }
+    .top_cloud{
+       
+        width: 300px;
+    position: absolute;
+    right: 100px;
+   
+    }
+    .bottom-cloud{
+          
+           width: 250px;
+           position: absolute;
+           top: 614px;
+           left: 357px;
+      
+    }
+    .myphoto{
+       width: 200px;
+       border-radius: 100%;
+    }
+    hr{
+        border-style: dotted;
+    border-width:7px;
+   border-top: 1px;
+ width: 60px;
+ color: #59666b;
+ margin: 35px auto 35px auto;
+    }
+    h2{
+        color: rgb(15, 109, 109);
+  font-family: Arial, Helvetica, sans-serif;
+    }
+    h3{
+        color: rgb(67, 9, 125);
+        font-family: 'Roboto', sans-serif;
+        font-size: 1rem;
+    }
+   .skills{
+    width: 300px;
+    border-radius: 100%;
+    
+   }
+   .contact{
+    font-size: 0.8rem;
+   }
+   .container2{
+    
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+   
+   }
+   .skills{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+   }
+   .devlopment{
+    position: relative;
+    top: 20px;
+   }
+   .skill-paragraph{
+    margin-top: 34px;
+   }
+   .rubic{
+
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+   }
+ .middle-container{
+    background-color: rgb(187, 230, 230);
+ }
+ .my{
+    background-color: rgb(187, 230, 230);
+    margin-top: 0px;
+ }
+ .bottom-container{
+    background-color: rgb(187, 230, 230);
+ }
